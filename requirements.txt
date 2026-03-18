@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+
+# Deep learning
+torch
+torchvision
+torchaudio
+
+# Utils
+tqdm
