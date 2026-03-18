@@ -57,13 +57,13 @@ Use the provided script `setup_env.sh` to automatically create and configure the
   source tutorial1_env/bin/activate
   ```
 
-##🧪 Alternative Setup Options
+## 🧪 Alternative Setup Options
 
 If you prefer, you can set up the environment manually using:
 - Visual Studio Code
 - Anaconda / Conda environments
 - Any Python virtual environment tool of your choice
 
-##📌 Notes
+## 📌 Notes
 - This setup is designed to keep dependencies isolated per project.
 - Using a virtual environment helps avoid version conflicts across different projects.
