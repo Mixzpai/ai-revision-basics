@@ -3,6 +3,16 @@
 This repository contains the code and notebook for **Tutorial 1**.  
 Follow the steps below to create an isolated Python environment, install dependencies, and run the notebook.
 
+### Evaluation 
+All models performed relatively similar with ~1% difference between them. 
+
+### Improvements
+- Data is imbalanced
+- Test => (Imputation) vs (Balancing by deletion)
+- Test => Removing features w/ low correlation 
+- Test => Remove features w/ overlapping values ("hard to distinguish between classes") 
+- Test => Implement different optimizers, and activation functions (=> construction of the neural net)
+
 ---
 
 ## ✅ Prerequisites
